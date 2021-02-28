@@ -6,9 +6,9 @@
 
 ## General Machine Learning Projects
 #### Support Vector Machines
-2. [Buiding a Spam Classifier](https://github.com/TranquilCreator/machine-learning-portfolio/spam-classifier/)
+2. [Buiding a Spam Classifier](https://github.com/TranquilCreator/machine-learning-portfolio/tree/main/spam-classifier/)
 
   
 ## Computer Vision Projects
 #### Multi-class Classification and Artifical Neural Networks
-3. [Automated Handwritten Digit Recognition](https://github.com/TranquilCreator/machine-learning-portfolio/automated-handwritten-digit-recognition)
+3. [Automated Handwritten Digit Recognition](https://github.com/TranquilCreator/machine-learning-portfolio/tree/main/automated-handwritten-digit-recognition)
