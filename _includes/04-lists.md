@@ -1,11 +1,11 @@
 # Machine Learning Projects
 
 ## 1. Natural Language Processing (NLP)
-- [Logistic Regression: Sentiment Analysis on Tweets](https://github.com/TranquilCreator/machine-learning-portfolio/tree/main/sentiment-analysis-of-tweets)
+- [Sentiment Analysis on Tweets using Logistic Regression](https://github.com/TranquilCreator/machine-learning-portfolio/tree/main/sentiment-analysis-of-tweets)
 
 ## 2. General Machine Learning Algorithms
-- [Support Vector Machines (SVM): Buiding a Spam Classifier](https://github.com/TranquilCreator/machine-learning-portfolio/tree/main/spam-classifier/)
-- [Collaborative Filtering Algorithm: Buiding a Movie Recommender System](https://github.com/TranquilCreator/machine-learning-portfolio/tree/main/movie-recommender-system)
+- [Buiding a Spam Classifier using Support Vector Machines (SVM)](https://github.com/TranquilCreator/machine-learning-portfolio/tree/main/spam-classifier/)
+- [Buiding a Movie Recommender System using a Collaborative Filtering Algorithm](https://github.com/TranquilCreator/machine-learning-portfolio/tree/main/movie-recommender-system)
   
 ## 3. Computer Vision and Deep Learning
-- [Classification and ANN: Automated Handwritten Digit Recognition](https://github.com/TranquilCreator/machine-learning-portfolio/tree/main/automated-handwritten-digit-recognition)
+- [Automated Handwritten Digit Recognition using Classification and ANN](https://github.com/TranquilCreator/machine-learning-portfolio/tree/main/automated-handwritten-digit-recognition)
