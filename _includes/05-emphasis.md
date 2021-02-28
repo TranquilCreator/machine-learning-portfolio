@@ -13,3 +13,10 @@
 
 ## Collaboration
 - GitHub
+
+## Machine Learning Courses
+**Machine Learning** \
+Stanford University (Coursera)\
+Credential URL: www.coursera.org/verify/QNXJN4YB5CTM 
+\
+![Machine Learning Certificate](https://raw.githubusercontent.com/TranquilCreator/machine-learning-portfolio/main/_includes/images/Machine_Learning_Stanford_Verona_Subroyen.png)
