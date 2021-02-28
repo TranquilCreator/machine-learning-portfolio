@@ -6,6 +6,7 @@ First let me introduced myself...
 
 I am Verona Subroyen, an aspiring Machine Learning Engineer, and I will take you through my journey to learn and master the various topics in Machine Learning.
 
-This is where we will get started!
+Access Portfolio here:
+[Machine Learning Profile](https://TranquilCreator.github.io/machine-learning-portfolio)
 
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
