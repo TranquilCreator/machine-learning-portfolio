@@ -2,14 +2,17 @@
 
 ## Programming Languages
 - Python
+- SQL
 - Java
 - Matlab
-- R (Programming Language)
 
 ## Machine Learning Frameworks
 - Sci-kit Learn
-- Tensorflow
 - Pandas
+
+## Data Visualisation Tools
+- Looker
+- Databrick
 
 ## Collaboration
 - GitHub
