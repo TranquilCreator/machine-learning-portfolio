@@ -12,10 +12,7 @@
 
 ## Data Visualisation Tools
 - Looker
-- Databrick
-
-## Collaboration
-- GitHub
+- Databricks
 
 ## Machine Learning Courses
 **Machine Learning** \
