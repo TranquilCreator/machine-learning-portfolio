@@ -2,4 +2,4 @@
 
 ## Classification
 [1. Customer Churn Prediction using Logistic Regression]([https://github.com/TranquilCreator/machine-learning-portfolio/tree/main/sentiment-analysis-of-tweets](https://github.com/TranquilCreator/machine-learning-portfolio/tree/main/churn-prediction)) \
-*Predicts if a customer is churned based on a set of demographic feature* \
+*Predicts if a customer is churned based on a set of demographic feature* 
