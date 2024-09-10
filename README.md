@@ -6,5 +6,3 @@ I am Verona, an aspiring Machine Learning Engineer, and I will take you through 
 
 Access Portfolio here:
 [Machine Learning Profile](https://TranquilCreator.github.io/machine-learning-portfolio)
-
-This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
