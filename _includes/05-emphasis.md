@@ -10,9 +10,11 @@
 - Sci-kit Learn
 - Pandas
 
-## Data Visualisation Tools
-- Looker
+## Data Visualisation and Warehouse Tools
 - Databricks
+- Snowflake
+- Looker
+- AWS QuickSight
 
 ## Machine Learning Courses
 **Machine Learning** \
